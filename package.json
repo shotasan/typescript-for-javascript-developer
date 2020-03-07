@@ -1,0 +1,20 @@
+{
+  "name": "typescript-for-javascript-developer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shotasan/typescript-for-javascript-developer.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shotasan/typescript-for-javascript-developer/issues"
+  },
+  "homepage": "https://github.com/shotasan/typescript-for-javascript-developer#readme"
+}
